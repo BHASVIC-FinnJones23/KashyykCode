@@ -1,0 +1,9 @@
+jmak2882824
+WantsANewspaper
+NumberOfNights
+NumberOfPeople
+NumberOfChildren
+MainAge
+MainName
+RoomNumber
+BoardType
